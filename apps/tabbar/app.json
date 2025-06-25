@@ -3,6 +3,7 @@
   "description": "{{desc}}",
   "version": "1.0.0",
   "dependencies": [
-    "duxui"
+    "duxui",
+    "test"
   ]
 }
